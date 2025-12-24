@@ -67,7 +67,7 @@ The project employs specific advanced techniques for data processing and modelin
     ```
 3.  Run the Jupyter Notebook:
     ```bash
-    jupyter notebook "notebook (24).ipynb"
+    jupyter notebook "main_file.ipynb"
     ```
 
 ## 📊 Results
